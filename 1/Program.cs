@@ -4,3 +4,8 @@
 // 456 -> 5
 // 782 -> 8
 // 918 -> 1
+
+Console.Write("Введите трехзначное число: ");
+int firstNumber = Convert.ToInt32(Console.ReadLine());
+
+int sum = 0;
